@@ -1,6 +1,6 @@
 # composure
 
-A simple Jekyll theme.
+A simple Jekyll theme inspired by [Telegraph](telegra.ph).
 
 ## Installation
 
