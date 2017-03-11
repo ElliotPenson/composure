@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["<elliotpenson@gmail.com>"]
 
   spec.summary       = "A simple Jekyll theme."
-  spec.homepage      = "https://rubygems.org/gems/composure"
+  spec.homepage      = "https://github.com/ElliotPenson/composure"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
