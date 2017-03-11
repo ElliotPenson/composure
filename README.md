@@ -42,8 +42,11 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 
 When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
+Create a new gem for composure with `gem build composure.gemspec`. Install this
+gem locally with `gem install ./composure-VERSION.gem`. Share the gem on
+rubygems.org with `gem push composure-VERSION.gem`.
+
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-# composure
+The theme is available as open source under the terms of the 
+[MIT License](https://opensource.org/licenses/MIT).
